@@ -1,7 +1,9 @@
 # OrcaSlicer-to-Ender3S1-thumbnails
 This is the working script that generates embedded gcode thumbnails for Ender3 S1 with latest firmware in the Orca Slicer.
 Suitable for stock Marlin printer with encoder knob display.
+
 [Original script](https://forum.creality.com/t/ender-3s1-pro-thumbnail-preview-not-working/4960/21)
+
 ![Resulting image of Ender3 display](/ender_thumbnail.webp)
 ## Installing
 There are two options.
