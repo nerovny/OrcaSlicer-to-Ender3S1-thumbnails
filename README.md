@@ -27,4 +27,5 @@ When I tried the original script it takes no effect and no image. So I changed t
 - Fixed "Filament used" field
 - Added auto-cropping to make small parts pictures full-sized
 - Increased image details and quality
+
 Ender3 firmware uses 200x200px thumbnails but I recommend to use about 300x300 in the Orca printer settings to achieve a better image quality. It will cropped and resized later in the script.
